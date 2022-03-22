@@ -1,20 +1,19 @@
 <template>
-  <div id="app">
-    <border></border>
-  </div>
+<div>
+  <border></border>
+</div>
 </template>
 
 <script>
-
 import border from "@/View/Home/compoents/border";
 export default {
-  name: 'App',
-  components: {
+  name: "index",
+  components:{
     border
   }
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>

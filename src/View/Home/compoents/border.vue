@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import LeftMenus from "@/components/left-menus";
+import LeftMenus from "@/View/Home/compoents/left-menus";
 export default {
   name: "test",
   components: {LeftMenus}

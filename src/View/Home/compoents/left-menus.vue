@@ -41,8 +41,8 @@
 </template>
 
 <script>
-import LeftMenusItem from "@/components/left-menus-item";
-import HeadPortrait from "@/components/HeadPortrait";
+import LeftMenusItem from "@/View/Home/compoents/left-menus-item";
+import HeadPortrait from "@/View/Home/compoents/HeadPortrait";
 export default {
   name: "left-menus",
   components: {HeadPortrait, LeftMenusItem}
