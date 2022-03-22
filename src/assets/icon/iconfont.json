@@ -1,0 +1,58 @@
+{
+  "id": "3266820",
+  "name": "软工",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "599986",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "11882438",
+      "name": "审核记录",
+      "font_class": "shenhejilu",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "6838209",
+      "name": "经费管理",
+      "font_class": "jingfeiguanli",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12097634",
+      "name": "申请",
+      "font_class": "shenqing",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "20162898",
+      "name": "中期检查",
+      "font_class": "zhongqijiancha",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "22773532",
+      "name": "赋能科技研发",
+      "font_class": "funengkejiyanfa",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "24272044",
+      "name": "设备管理",
+      "font_class": "shebeiguanli",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    }
+  ]
+}
